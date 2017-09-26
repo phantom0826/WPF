@@ -1,0 +1,2 @@
+D:\Git\WpfApplication2\WpfApplication2\bin\Debug\WpfApplication2.exe.config
+D:\Git\Repos\C-Study\WPF\WpfApplication2\WpfApplication2\bin\Debug\WpfApplication2.exe.config
